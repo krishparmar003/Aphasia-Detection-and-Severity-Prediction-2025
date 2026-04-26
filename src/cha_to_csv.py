@@ -1,4 +1,4 @@
-!pip install praat-parselmouth --quiet
+#!pip install praat-parselmouth --quiet
 from google.colab import drive
 import os
 import re
