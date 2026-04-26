@@ -25,11 +25,12 @@ GRU achieved the highest accuracy. Hybrid CNN+GRU achieved the highest AUC score
 ## Repo structure
 
 ```
-├── data/sample/          # Sample CSV (1 speaker, for reference)
+├── data/sample/          # Sample CSV (for reference)
 ├── src/
 │   └── cha_to_csv.py     # Pipeline to extract features from .cha transcripts
 ├── m3_aphasia.ipynb      # Full training notebook (CNN, GRU, Hybrid)
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
